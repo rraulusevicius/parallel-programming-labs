@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.pdb
+*.ilk
+
+# Go binaries (no extension, but usually in same folder)
+*.test
+
+# IDE
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db

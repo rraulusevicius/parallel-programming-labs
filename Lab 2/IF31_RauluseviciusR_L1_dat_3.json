@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Cheap Mouse Pad",
+    "quantity": 1,
+    "price": 4.99
+  },
+  {
+    "name": "Screen Cleaner",
+    "quantity": 1,
+    "price": 2.50
+  },
+  {
+    "name": "Dust Cover",
+    "quantity": 1,
+    "price": 7.95
+  },
+  {
+    "name": "Cable Tie",
+    "quantity": 1,
+    "price": 1.99
+  },
+  {
+    "name": "Sticker Pack",
+    "quantity": 1,
+    "price": 3.50
+  },
+  {
+    "name": "Rubber Feet",
+    "quantity": 1,
+    "price": 2.99
+  },
+  {
+    "name": "Screw Set",
+    "quantity": 1,
+    "price": 5.95
+  },
+  {
+    "name": "Thermal Paste",
+    "quantity": 1,
+    "price": 8.50
+  },
+  {
+    "name": "Zip Ties",
+    "quantity": 1,
+    "price": 1.99
+  },
+  {
+    "name": "Anti-Static Wrist Strap",
+    "quantity": 1,
+    "price": 6.99
+  },
+  {
+    "name": "Lens Cloth",
+    "quantity": 1,
+    "price": 3.95
+  },
+  {
+    "name": "Phone Stand",
+    "quantity": 1,
+    "price": 9.50
+  },
+  {
+    "name": "Desk Organizer",
+    "quantity": 1,
+    "price": 12.99
+  },
+  {
+    "name": "Paper Clips",
+    "quantity": 1,
+    "price": 1.50
+  },
+  {
+    "name": "Sticky Notes",
+    "quantity": 1,
+    "price": 2.95
+  },
+  {
+    "name": "Pen Holder",
+    "quantity": 1,
+    "price": 4.50
+  },
+  {
+    "name": "Rubber Band",
+    "quantity": 1,
+    "price": 0.99
+  },
+  {
+    "name": "Push Pins",
+    "quantity": 1,
+    "price": 1.75
+  },
+  {
+    "name": "Binder Clips",
+    "quantity": 1,
+    "price": 2.25
+  },
+  {
+    "name": "Staple Remover",
+    "quantity": 1,
+    "price": 3.99
+  },
+  {
+    "name": "Pencil Eraser",
+    "quantity": 1,
+    "price": 1.25
+  },
+  {
+    "name": "Correction Tape",
+    "quantity": 1,
+    "price": 2.75
+  },
+  {
+    "name": "Highlighter",
+    "quantity": 1,
+    "price": 1.99
+  },
+  {
+    "name": "Marker Set",
+    "quantity": 1,
+    "price": 4.95
+  },
+  {
+    "name": "Ruler",
+    "quantity": 1,
+    "price": 2.50
+  },
+  {
+    "name": "Scissors",
+    "quantity": 1,
+    "price": 6.99
+  },
+  {
+    "name": "Hole Punch",
+    "quantity": 1,
+    "price": 8.95
+  },
+  {
+    "name": "Stapler",
+    "quantity": 1,
+    "price": 7.50
+  },
+  {
+    "name": "Tape Dispenser",
+    "quantity": 1,
+    "price": 5.99
+  },
+  {
+    "name": "Magnifying Glass",
+    "quantity": 1,
+    "price": 9.95
+  },
+  {
+    "name": "Calculator",
+    "quantity": 1,
+    "price": 12.50
+  },
+  {
+    "name": "Notebook",
+    "quantity": 1,
+    "price": 3.99
+  },
+  {
+    "name": "Folder",
+    "quantity": 1,
+    "price": 1.50
+  },
+  {
+    "name": "Envelope",
+    "quantity": 1,
+    "price": 0.75
+  },
+  {
+    "name": "Label Maker Tape",
+    "quantity": 1,
+    "price": 8.99
+  },
+  {
+    "name": "Eraser",
+    "quantity": 1,
+    "price": 0.50
+  }
+]

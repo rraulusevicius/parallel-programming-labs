@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Premium Laptop",
+    "quantity": 25,
+    "price": 1299.99
+  },
+  {
+    "name": "Gaming Mouse",
+    "quantity": 80,
+    "price": 189.95
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "quantity": 45,
+    "price": 249.50
+  },
+  {
+    "name": "4K Monitor",
+    "quantity": 30,
+    "price": 899.00
+  },
+  {
+    "name": "Wireless Headphones",
+    "quantity": 65,
+    "price": 349.99
+  },
+  {
+    "name": "Graphics Card",
+    "quantity": 20,
+    "price": 1299.99
+  },
+  {
+    "name": "SSD Drive",
+    "quantity": 75,
+    "price": 279.95
+  },
+  {
+    "name": "RAM Module",
+    "quantity": 90,
+    "price": 199.99
+  },
+  {
+    "name": "Motherboard",
+    "quantity": 35,
+    "price": 399.50
+  },
+  {
+    "name": "Power Supply",
+    "quantity": 50,
+    "price": 249.99
+  },
+  {
+    "name": "CPU Cooler",
+    "quantity": 60,
+    "price": 129.95
+  },
+  {
+    "name": "PC Case",
+    "quantity": 40,
+    "price": 199.95
+  },
+  {
+    "name": "Network Card",
+    "quantity": 85,
+    "price": 89.99
+  },
+  {
+    "name": "Sound Card",
+    "quantity": 55,
+    "price": 159.50
+  },
+  {
+    "name": "Webcam",
+    "quantity": 95,
+    "price": 219.99
+  },
+  {
+    "name": "Microphone",
+    "quantity": 70,
+    "price": 259.95
+  },
+  {
+    "name": "Router",
+    "quantity": 45,
+    "price": 299.99
+  },
+  {
+    "name": "Switch",
+    "quantity": 65,
+    "price": 129.50
+  },
+  {
+    "name": "Cable",
+    "quantity": 150,
+    "price": 59.99
+  },
+  {
+    "name": "Adapter",
+    "quantity": 120,
+    "price": 79.95
+  },
+  {
+    "name": "Battery",
+    "quantity": 130,
+    "price": 44.99
+  },
+  {
+    "name": "Charger",
+    "quantity": 105,
+    "price": 89.50
+  },
+  {
+    "name": "Tablet",
+    "quantity": 35,
+    "price": 599.99
+  },
+  {
+    "name": "Smartphone",
+    "quantity": 28,
+    "price": 999.95
+  },
+  {
+    "name": "Smartwatch",
+    "quantity": 55,
+    "price": 399.50
+  },
+  {
+    "name": "Printer",
+    "quantity": 25,
+    "price": 349.99
+  },
+  {
+    "name": "Scanner",
+    "quantity": 32,
+    "price": 279.95
+  },
+  {
+    "name": "Projector",
+    "quantity": 18,
+    "price": 899.99
+  },
+  {
+    "name": "Speaker",
+    "quantity": 75,
+    "price": 199.50
+  },
+  {
+    "name": "Amplifier",
+    "quantity": 30,
+    "price": 299.99
+  },
+  {
+    "name": "TV",
+    "quantity": 22,
+    "price": 1199.95
+  },
+  {
+    "name": "Streaming Device",
+    "quantity": 85,
+    "price": 129.99
+  },
+  {
+    "name": "Game Console",
+    "quantity": 28,
+    "price": 699.99
+  },
+  {
+    "name": "Controller",
+    "quantity": 70,
+    "price": 109.95
+  },
+  {
+    "name": "VR Headset",
+    "quantity": 15,
+    "price": 799.50
+  },
+  {
+    "name": "Gaming Chair",
+    "quantity": 40,
+    "price": 399.99
+  }
+]

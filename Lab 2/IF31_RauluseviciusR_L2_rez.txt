@@ -1,0 +1,40 @@
+Name                           Quantity     Price        Risk Score     
+---------------------------------------------------------------------
+4K Monitor                     30           899.00       2.11793e+09    
+Adapter                        120          79.95        7.53407e+08    
+Amplifier                      30           299.99       7.06737e+08    
+Battery                        130          44.99        4.59293e+08    
+CPU Cooler                     60           129.95       6.12291e+08    
+Cable                          150          59.99        7.06643e+08    
+Charger                        105          89.50        7.37976e+08    
+Controller                     70           109.95       6.04398e+08    
+Game Console                   28           699.99       1.53915e+09    
+Gaming Chair                   40           399.99       1.25643e+09    
+Gaming Mouse                   80           189.95       1.19333e+09    
+Graphics Card                  20           1299.99      2.04174e+09    
+Mechanical Keyboard            45           249.50       8.81684e+08    
+Microphone                     70           259.95       1.42895e+09    
+Motherboard                    35           399.50       1.09803e+09    
+Network Card                   85           89.99        6.00680e+08    
+PC Case                        40           199.95       6.28075e+08    
+Power Supply                   50           249.99       9.81573e+08    
+Premium Laptop                 25           1299.99      2.55217e+09    
+Printer                        25           349.99       6.87109e+08    
+Projector                      18           899.99       1.27216e+09    
+RAM Module                     90           199.99       1.41345e+09    
+Router                         45           299.99       1.06011e+09    
+SSD Drive                      75           279.95       1.64881e+09    
+Scanner                        32           279.95       7.03494e+08    
+Smartphone                     28           999.95       2.19870e+09    
+Smartwatch                     55           399.50       1.72548e+09    
+Sound Card                     55           159.50       6.88896e+08    
+Speaker                        75           199.50       1.17499e+09    
+Streaming Device               85           129.99       8.67679e+08    
+Switch                         65           129.50       6.61018e+08    
+TV                             22           1199.95      2.07308e+09    
+Tablet                         35           599.99       1.64908e+09    
+VR Headset                     15           799.50       9.41759e+08    
+Webcam                         95           219.99       1.64118e+09    
+Wireless Headphones            65           349.99       1.78648e+09    
+=====================================================================
+TOTALS (filtered items only):  2093         14549.33    

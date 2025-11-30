@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Budget Laptop",
+    "quantity": 8,
+    "price": 399.99
+  },
+  {
+    "name": "Office Mouse",
+    "quantity": 5,
+    "price": 29.95
+  },
+  {
+    "name": "Basic Keyboard",
+    "quantity": 12,
+    "price": 45.50
+  },
+  {
+    "name": "HD Monitor",
+    "quantity": 3,
+    "price": 299.00
+  },
+  {
+    "name": "Earbuds",
+    "quantity": 15,
+    "price": 49.99
+  },
+  {
+    "name": "Entry Graphics Card",
+    "quantity": 6,
+    "price": 249.99
+  },
+  {
+    "name": "HDD Drive",
+    "quantity": 10,
+    "price": 119.95
+  },
+  {
+    "name": "Basic RAM",
+    "quantity": 18,
+    "price": 69.99
+  },
+  {
+    "name": "Simple Motherboard",
+    "quantity": 4,
+    "price": 129.50
+  },
+  {
+    "name": "Basic PSU",
+    "quantity": 8,
+    "price": 89.99
+  },
+  {
+    "name": "Stock Cooler",
+    "quantity": 20,
+    "price": 35.95
+  },
+  {
+    "name": "Mini Case",
+    "quantity": 12,
+    "price": 59.95
+  },
+  {
+    "name": "USB Adapter",
+    "quantity": 25,
+    "price": 19.99
+  },
+  {
+    "name": "Integrated Sound",
+    "quantity": 3,
+    "price": 49.50
+  },
+  {
+    "name": "Basic Webcam",
+    "quantity": 22,
+    "price": 59.99
+  },
+  {
+    "name": "Desk Mic",
+    "quantity": 85,
+    "price": 139.95
+  },
+  {
+    "name": "Home Router",
+    "quantity": 65,
+    "price": 149.99
+  },
+  {
+    "name": "Ethernet Switch",
+    "quantity": 50,
+    "price": 69.50
+  },
+  {
+    "name": "USB Cable",
+    "quantity": 100,
+    "price": 19.99
+  },
+  {
+    "name": "Wall Adapter",
+    "quantity": 75,
+    "price": 24.95
+  },
+  {
+    "name": "AA Battery",
+    "quantity": 5,
+    "price": 9.99
+  },
+  {
+    "name": "Phone Charger",
+    "quantity": 8,
+    "price": 29.50
+  },
+  {
+    "name": "Basic Tablet",
+    "quantity": 4,
+    "price": 199.99
+  },
+  {
+    "name": "Feature Phone",
+    "quantity": 12,
+    "price": 99.95
+  },
+  {
+    "name": "Fitness Tracker",
+    "quantity": 60,
+    "price": 149.50
+  },
+  {
+    "name": "Inkjet Printer",
+    "quantity": 6,
+    "price": 129.99
+  },
+  {
+    "name": "Flatbed Scanner",
+    "quantity": 3,
+    "price": 109.95
+  },
+  {
+    "name": "Portable Projector",
+    "quantity": 95,
+    "price": 449.99
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "quantity": 70,
+    "price": 79.50
+  },
+  {
+    "name": "Mini Amplifier",
+    "quantity": 8,
+    "price": 119.99
+  },
+  {
+    "name": "Small TV",
+    "quantity": 3,
+    "price": 399.95
+  },
+  {
+    "name": "Roku Stick",
+    "quantity": 18,
+    "price": 49.99
+  },
+  {
+    "name": "Retro Console",
+    "quantity": 80,
+    "price": 299.99
+  },
+  {
+    "name": "Wired Controller",
+    "quantity": 45,
+    "price": 49.95
+  },
+  {
+    "name": "Cardboard VR",
+    "quantity": 25,
+    "price": 39.50
+  },
+  {
+    "name": "Mini Drone",
+    "quantity": 55,
+    "price": 89.99
+  }
+]
