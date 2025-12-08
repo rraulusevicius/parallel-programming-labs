@@ -36,6 +36,10 @@ Message-passing implementation using Go channels.
 
 **Concepts:** Channels, goroutines, message passing, distributed architecture
 
+### Lab 4
+
+- CUDA parallel work.
+
 ## Tech
 
 - C++ with OpenMP
