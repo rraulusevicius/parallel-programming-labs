@@ -87,6 +87,7 @@
     <CudaCompile Include="kernel.cu" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="IF31_RauluseviciusR_L1_dat_1.json" />
     <None Include="packages.config" />
     <None Include="students.json" />
   </ItemGroup>

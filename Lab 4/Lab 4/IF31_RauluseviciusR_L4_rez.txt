@@ -1,0 +1,208 @@
+Name                          Quantity    Price       Risk Score     
+---------------------------------------------------------------------
+Advanced Charger 248          24          72.34       1.36339e+08    
+Advanced Cooling Pad 274      29          74.88       1.70527e+08    
+Advanced Docking Station 164  30          92.77       2.18554e+08    
+Advanced Game Console 34      95          1261.52     9.41126e+09    
+Advanced Keyboard 103         77          1394.86     8.43434e+09    
+Advanced Keyboard 84          50          1000.33     3.92774e+09    
+Advanced Laptop Bag 129       183         1226.90     1.76315e+10    
+Advanced Laptop Bag 32        137         667.33      7.17945e+09    
+Advanced Monitor 83           73          1451.43     8.32049e+09    
+Advanced Motherboard 76       139         1821.30     1.98804e+10    
+Advanced Mouse Pad 183        23          97.89       1.76806e+08    
+Advanced PC Case 102          198         1943.80     3.02236e+10    
+Advanced Scanner 232          20          98.22       1.54263e+08    
+Advanced Screen Protector 25  199         1142.65     1.78565e+10    
+Advanced Tablet 100           180         1099.52     1.55419e+10    
+Advanced USB Hub 288          17          84.02       1.12166e+08    
+Basic Docking Station 142     186         540.45      7.89402e+09    
+Basic External Drive 85       117         742.37      6.82081e+09    
+Basic Game Console 27         176         636.36      8.79519e+09    
+Basic Headphones 247          20          80.34       1.26181e+08    
+Basic Keyboard 89             128         1046.98     1.05239e+10    
+Basic Keyboard Pad 133        104         596.34      4.87032e+09    
+Basic Memory Card 41          171         1920.27     2.57863e+10    
+Basic Network Card 111        157         1497.39     1.84614e+10    
+Basic Router 80               79          1834.57     1.13813e+10    
+Basic Screen Protector 2      76          1515.05     9.04212e+09    
+Basic Switch 81               122         1407.24     1.34821e+10    
+Basic Webcam 261              19          67.41       1.00579e+08    
+Classic Amplifier 73          130         1893.53     1.93306e+10    
+Classic Battery 278           28          47.40       1.04224e+08    
+Classic Cable 114             103         1144.83     9.25994e+09    
+Classic Docking Station 78    185         511.73      7.43434e+09    
+Classic External Drive 265    18          72.13       1.01958e+08    
+Classic Memory Card 79        76          1908.40     1.13897e+10    
+Classic Microphone 131        119         1003.77     9.38018e+09    
+Classic Monitor Stand 209     17          94.84       1.26611e+08    
+Classic Printer 113           190         1750.59     2.61197e+10    
+Classic Speaker 226           27          53.62       1.13690e+08    
+Deluxe Card Reader 234        21          77.17       1.27262e+08    
+Deluxe Game Console 116       171         1690.60     2.27021e+10    
+Deluxe Keyboard Pad 121       148         1241.57     1.44299e+10    
+Deluxe Keyboard Pad 44        129         1098.49     1.11280e+10    
+Deluxe Motherboard 279        30          58.55       1.37936e+08    
+Deluxe Power Supply 36        145         1643.77     1.87171e+10    
+Deluxe SSD Drive 52           74          1488.47     8.64971e+09    
+Deluxe Smartphone 107         160         604.96      7.60110e+09    
+Deluxe Speaker 299            19          95.55       1.42566e+08    
+Elite Amplifier 125           84          1702.12     1.12279e+10    
+Elite External Drive 35       126         1762.50     1.74393e+10    
+Elite Headphones 75           187         819.73      1.20377e+10    
+Elite Headphones 87           88          1318.39     9.11080e+09    
+Elite Laptop Bag 123          158         828.26      1.02767e+10    
+Elite Monitor 58              188         1754.04     2.58957e+10    
+Elite Mouse 1                 120         867.34      8.17336e+09    
+Elite Mouse Pad 109           126         1260.68     1.24740e+10    
+Elite Phone Case 254          25          73.35       1.44003e+08    
+Elite Smartphone 38           128         859.18      8.63622e+09    
+Elite Smartwatch 105          197         785.12      1.21460e+10    
+Elite Smartwatch 96           59          1787.89     8.28367e+09    
+Elite Tablet 91               193         1826.20     2.76780e+10    
+Max Amplifier 165             18          84.32       1.19188e+08    
+Max Cable 219                 26          95.07       1.94110e+08    
+Max External Drive 224        19          78.40       1.16977e+08    
+Max Flash Drive 175           27          54.17       1.14856e+08    
+Max Headphones 40             186         1648.75     2.40823e+10    
+Max Microphone 51             171         1711.25     2.29794e+10    
+Max Mouse 140                 149         1004.19     1.17498e+10    
+Max Power Supply 63           98          945.06      7.27303e+09    
+Max Sound Card 50             188         698.47      1.03118e+10    
+Max Speaker 128               116         1627.67     1.48270e+10    
+Max TV 60                     104         1796.98     1.46760e+10    
+Mini Adapter 196              23          99.10       1.78991e+08    
+Mini Cable 263                26          59.19       1.20852e+08    
+Mini Controller 30            114         1956.62     1.75162e+10    
+Mini Desk Lamp 168            24          70.14       1.32193e+08    
+Mini External Drive 16        143         743.98      8.35463e+09    
+Mini Gaming Chair 86          159         1341.36     1.67484e+10    
+Mini Microphone 57            69          1164.70     6.31092e+09    
+Mini Monitor 124              192         873.80      1.31748e+10    
+Mini Motherboard 56           158         775.23      9.61872e+09    
+Mini PC Case 145              62          890.23      4.33435e+09    
+Mini Power Supply 24          117         709.45      6.51835e+09    
+Mini Smartphone 287           26          77.41       1.58052e+08    
+Mini VR Headset 11            81          1959.67     1.24652e+10    
+Modern Amplifier 115          163         1163.24     1.48897e+10    
+Modern Docking Station 108    130         1495.08     1.52629e+10    
+Modern Graphics Card 118      110         1509.19     1.30367e+10    
+Modern Headphones 49          181         857.01      1.21813e+10    
+Modern Laptop 161             18          84.01       1.18750e+08    
+Modern Microphone 72          117         1093.68     1.00486e+10    
+Modern Monitor 65             62          1376.27     6.70078e+09    
+Modern Mouse 101              79          1815.56     1.12633e+10    
+Modern Mouse 169              20          86.59       1.35997e+08    
+Modern Phone Case 126         163         1418.98     1.81633e+10    
+Modern RAM Module 221         29          46.38       1.05623e+08    
+Modern Router 71              102         1504.59     1.20517e+10    
+Modern SSD Drive 55           113         787.39      6.98712e+09    
+Modern SSD Drive 9            73          1069.89     6.13327e+09    
+Modern Sound Card 146         166         990.27      1.29090e+10    
+Modern Sound Card 23          177         1093.45     1.51985e+10    
+Modern Sound Card 82          117         1258.11     1.15594e+10    
+Modern Switch 8               89          822.97      5.75180e+09    
+Modern Tablet 179             27          50.84       1.07795e+08    
+Portable Battery 110          153         1545.81     1.85728e+10    
+Portable CPU Cooler 33        166         504.87      6.58139e+09    
+Portable Card Reader 194      24          81.17       1.52981e+08    
+Portable Card Reader 29       66          1077.15     5.58277e+09    
+Portable Charger 134          188         1198.89     1.76997e+10    
+Portable Charger 236          30          55.70       1.31222e+08    
+Portable Docking Station 92   89          1888.65     1.31999e+10    
+Portable External Drive 216   20          97.21       1.52676e+08    
+Portable Gaming Chair 127     164         1845.81     2.37717e+10    
+Portable Memory Card 70       199         1347.84     2.10630e+10    
+Portable Memory Card 95       113         900.21      7.98826e+09    
+Portable Sound Card 43        188         1632.90     2.41072e+10    
+Portable Speaker 201          27          63.44       1.34511e+08    
+Portable USB Hub 296          28          75.39       1.65769e+08    
+Portable VR Headset 138       189         1699.80     2.52284e+10    
+Portable Webcam 6             164         1383.90     1.78229e+10    
+Premium Card Reader 37        132         1232.91     1.27801e+10    
+Premium Cooling Pad 31        79          1522.57     9.44570e+09    
+Premium Desk Lamp 270         26          80.05       1.63443e+08    
+Premium External Drive 227    24          81.94       1.54432e+08    
+Premium Gaming Chair 5        100         1574.03     1.23607e+10    
+Premium PC Case 94            135         1673.58     1.77423e+10    
+Premium Phone Case 136        197         1070.57     1.65619e+10    
+Premium Phone Case 213        26          83.93       1.71365e+08    
+Premium Phone Case 7          90          1547.21     1.09351e+10    
+Premium Tablet 137            126         1630.21     1.61304e+10    
+Pro Card Reader 18            93          1301.21     9.50299e+09    
+Pro Charger 249               26          87.34       1.78327e+08    
+Pro Flash Drive 144           159         703.55      8.78460e+09    
+Pro Laptop 74                 167         1431.74     1.87763e+10    
+Pro Motherboard 132           88          846.89      5.85247e+09    
+Pro Phone Case 59             110         749.47      6.47406e+09    
+Pro Sound Card 4              109         1258.03     1.07683e+10    
+Pro Speaker 264               16          98.89       1.24252e+08    
+Pro TV 148                    54          1623.54     6.88472e+09    
+Pro USB Hub 3                 158         547.67      6.79526e+09    
+Pro Webcam 15                 75          1070.19     6.30307e+09    
+Smart CPU Cooler 154          24          64.65       1.21846e+08    
+Smart Charger 239             22          78.66       1.35896e+08    
+Smart Controller 280          21          92.21       1.52065e+08    
+Smart Desk Lamp 13            99          1556.86     1.21036e+10    
+Smart Desk Lamp 268           14          99.34       1.09215e+08    
+Smart Mouse Pad 104           130         1154.59     1.17869e+10    
+Smart Projector 53            155         1200.54     1.46130e+10    
+Smart Sound Card 17           118         1552.73     1.43882e+10    
+Smart Speaker 45              182         1177.23     1.68253e+10    
+Smart Tablet 10               117         1710.69     1.57176e+10    
+Smart USB Hub 88              191         722.14      1.08314e+10    
+Standard Adapter 207          24          77.41       1.45895e+08    
+Standard Headphones 67        67          1512.82     7.95961e+09    
+Standard Memory Card 117      71          925.68      5.16118e+09    
+Standard Monitor 66           180         620.17      8.76623e+09    
+Standard Router 281           20          97.06       1.52441e+08    
+Standard Router 42            185         1808.65     2.62758e+10    
+Super Adapter 177             26          62.34       1.27283e+08    
+Super CPU Cooler 19           168         1069.18     1.41055e+10    
+Super CPU Cooler 93           95          1822.12     1.35935e+10    
+Super Cooling Pad 20          133         1764.28     1.84268e+10    
+Super Cooling Pad 284         28          70.70       1.55456e+08    
+Super Desk Lamp 39            70          628.48      3.45477e+09    
+Super External Drive 252      26          92.88       1.89638e+08    
+Super Network Card 119        87          536.64      3.66633e+09    
+Super Network Card 97         167         1024.49     1.34355e+10    
+Super Power Supply 122        51          1838.99     7.36511e+09    
+Super Printer 68              80          1912.39     1.20142e+10    
+Super Router 204              30          81.21       1.91320e+08    
+Super SSD Drive 158           27          79.52       1.68605e+08    
+Super Smartphone 77           122         736.62      7.05721e+09    
+Super Streaming Device 139    106         909.40      7.56991e+09    
+Super Switch 130              162         616.23      7.83949e+09    
+Super TV 120                  68          1183.12     6.31782e+09    
+Super USB Hub 47              106         510.79      4.25185e+09    
+Super USB Hub 69              60          1429.07     6.73340e+09    
+Super Webcam 46               66          1007.13     5.21987e+09    
+Super Webcam 98               56          1490.05     6.55268e+09    
+Ultra Adapter 276             30          49.67       1.17016e+08    
+Ultra CPU Cooler 61           147         503.23      5.80916e+09    
+Ultra Card Reader 271         28          54.71       1.20297e+08    
+Ultra Cooling Pad 54          75          590.92      3.48033e+09    
+Ultra Keyboard Pad 106        161         502.54      6.35369e+09    
+Ultra Memory Card 14          108         1659.60     1.40753e+10    
+Ultra Phone Case 150          57          1924.42     8.61399e+09    
+Ultra RAM Module 28           89          1441.17     1.00724e+10    
+Ultra Sound Card 135          157         1084.22     1.33674e+10    
+Ultra Tablet 149              107         1475.22     1.23957e+10    
+Ultra Tablet 90               103         1523.10     1.23196e+10    
+Ultra USB Hub 64              188         591.44      8.73169e+09    
+Ultra Webcam 21               58          1707.57     7.77743e+09    
+Ultra Webcam 48               67          1858.13     9.77644e+09    
+Wireless Amplifier 240        15          88.26       1.03965e+08    
+Wireless Battery 250          25          74.68       1.46614e+08    
+Wireless Charger 99           121         1796.53     1.70706e+10    
+Wireless Cooling Pad 112      94          1423.27     1.05062e+10    
+Wireless Graphics Card 12     191         939.77      1.40956e+10    
+Wireless Mouse Pad 141        92          1760.76     1.27209e+10    
+Wireless Router 62            166         927.87      1.20955e+10    
+Wireless Smartphone 26        106         1995.99     1.66148e+10    
+Wireless Smartwatch 243       26          81.32       1.66036e+08    
+Wireless Switch 147           157         878.41      1.08300e+10    
+Wireless Switch 22            66          816.47      4.23169e+09    
+Wireless USB Hub 143          194         1494.50     2.27681e+10    
+=====================================================================
+TOTALS (filtered items only): 20310       192703.14   

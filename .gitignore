@@ -14,8 +14,15 @@ x86/
 *.pdb
 *.ilk
 
+# NuGet packages (restored on build from packages.config)
+packages/
+
 # Go binaries (no extension, but usually in same folder)
 *.test
+
+# Python
+__pycache__/
+.venv/
 
 # IDE
 .idea/

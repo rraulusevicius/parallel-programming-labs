@@ -1,0 +1,18 @@
+Name                          Quantity    Price       Risk Score     
+---------------------------------------------------------------------
+Basic Webcam                  22          59.99       1.03641e+08    
+Bluetooth Speaker             70          79.50       4.37014e+08    
+Budget Laptop                 8           399.99      2.51287e+08    
+Desk Mic                      85          139.95      9.34161e+08    
+Entry Graphics Card           6           249.99      1.17789e+08    
+Ethernet Switch               50          69.50       2.72888e+08    
+Fitness Tracker               60          149.50      7.04405e+08    
+Home Router                   65          149.99      7.65607e+08    
+Mini Drone                    55          89.99       3.88675e+08    
+Portable Projector            95          449.99      3.35704e+09    
+Retro Console                 80          299.99      1.88463e+09    
+USB Cable                     100         19.99       1.56980e+08    
+Wall Adapter                  75          24.95       1.46948e+08    
+Wired Controller              45          49.95       1.76514e+08    
+=====================================================================
+TOTALS (filtered items only): 816         2233.27     

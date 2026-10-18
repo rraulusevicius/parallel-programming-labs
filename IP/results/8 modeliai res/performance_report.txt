@@ -1,0 +1,17 @@
+================================================================================
+PERFORMANCE TEST REPORT
+================================================================================
+Date: 2025-11-24 18:26:03
+CPU cores: 16
+
+BEST CONFIGURATIONS:
+100 samples: 8 procs -> 2.56x speedup (32.0% efficiency)
+200 samples: 8 procs -> 2.73x speedup (34.2% efficiency)
+400 samples: 8 procs -> 2.71x speedup (33.8% efficiency)
+800 samples: 8 procs -> 2.93x speedup (36.7% efficiency)
+1460 samples: 8 procs -> 2.99x speedup (37.4% efficiency)
+3000 samples: 8 procs -> 3.69x speedup (46.2% efficiency)
+7300 samples: 8 procs -> 4.70x speedup (58.7% efficiency)
+14600 samples: 8 procs -> 5.47x speedup (68.4% efficiency)
+
+Maximum speedup: 5.47x
